@@ -7,3 +7,6 @@ composer.lock
 /tests/node_server.pid
 node_modules/
 tests/Tests/Resource/Teleporter/plop-badge/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
